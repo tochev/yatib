@@ -32,7 +32,7 @@ Configuration file:
     channels=#test,#test1
 
     [twitter]
-    #poll_interval=60.0 ; NOTE: https://dev.twitter.com/docs/rate-limiting/1.1/limits
+    #poll_interval=60.0 ; NOTE: https://developer.twitter.com/en/docs/basics/rate-limiting
     skip_old_tweets_on_start=yes
     #query=#somehashtag
 
